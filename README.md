@@ -11,7 +11,8 @@ This is up-to-date as of the day of commit. Could be broken tomorrow, careful.
 
 The Bebo Api has 2 primary headers, `X-Api-Key` and `X-Api-Token`.
 
-* `X-Api-Key` - The same key for everyone. `wt2Iq5HqbzETpHRM4sn9J_iAwGNO1BfWPF64mHjlkFsfQBpe9_88r4hwxd9G6Xb0X6MP6p42AS8HfLYp--k6jkNK_SAqFPED`
+* `X-Api-Key` - The same key for everyone:
+	* `wt2Iq5HqbzETpHRM4sn9J_iAwGNO1BfWPF64mHjlkFsfQBpe9_88r4hwxd9G6Xb0X6MP6p42AS8HfLYp--k6jkNK_SAqFPED`
 * `X-Api-Token` - The `access_token` created and returned from the server upon signing up/logging in.
 
 
