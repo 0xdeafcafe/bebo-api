@@ -280,3 +280,24 @@ Payload:
 ```
 message=%23ballin&message_id=1B9BF1EF-6281-4B85-9C4D-B70C847EC9CE
 ```
+
+Response:
+``` json
+{
+	"event_id": "[event_id]",
+	"count": 1,
+	"results": [
+		{
+			"user_id": "[user_id]",
+			"name": "jstanger",
+			"created_at": 1419609130824,
+			"updated_at": 1419609130834,
+			"html": "#ballin",
+			"chat_id": "[chat_id]",
+			"message": "#ballin",
+			"message_id": "1B9BF1EF-6281-4B85-9C4D-B70C847EC9CE"
+		}
+	],
+	"sync": 1419609130834
+}
+```

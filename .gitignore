@@ -1,3 +1,4 @@
-artifacts
-.v14.suo
+artifacts/
+*.v14.suo
 *.sln.ide/
+*.user
